@@ -1,7 +1,11 @@
-# quickstart-web-js
+# SalonAR
 
-- Go to https://developer.deepar.ai, sign up, create the project and the Web app, copy the license key and paste it to index.html (instead of your_license_key_goes_here string)
-- Download the SDK from https://developer.deepar.ai and copy the deepar.js, deepar.wasm and models-68-extreme.bin to lib folder
-- Open terminal and go to example folder
-- Run python server.py in terminal
-- Open browser and enter "http://localhost:8888" in the address bar
+<ol>
+  <li>Sign UP https://developer.deepar.ai to get your own api key.</li>
+  <li>Clone this repo</li>
+  <li>Copy the license key and paste it to index.html (instead of your_license_key_goes_here string)</li>
+  <li>Change directory to project dir</li>
+  <li>Run python -m http.server 8888 [change to suitable port no.]</li>
+  <li>Open browser: http://localhost:8888/</li>
+ </ol>
+
