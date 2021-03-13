@@ -1,6 +1,6 @@
 # SalonAR
 <h3>Live demo: https://salonar.herokuapp.com/ </h3>
-<h4>Make sure to setup browser beforehand to run this project</h4>
+<h4>Make sure to <a href="https://github.com/deeppatel23/salonAR#beowser-setup">setup browser</a> beforehand to run this project</h4>
 
 <h3>Project setup</h3>
 <ol>
