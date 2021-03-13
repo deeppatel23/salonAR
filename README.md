@@ -14,7 +14,7 @@
 
 <h3>Beowser setup</h3>
 <ul>
-  <li>Open Firefox</li>
+  <li>Open Firefox <i>(currently it's only working on firefox)</i></li>
   <li>about:config</li>
   <li>Search for: privacy.file_unique_origin</li>
   <li>Make the bool value to false</li>
