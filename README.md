@@ -18,5 +18,5 @@
   <li>Search: about:config</li>
   <li>Search for: privacy.file_unique_origin</li>
   <li>Make the bool value to false</li>
-  <l1>Now, you are ready to run the live demo on your browser</li>
+  <li>Now, you are ready to run the live demo on your browser</li>
 </ul>
